@@ -1,0 +1,16 @@
+C:\Users\nurza\source\repos\WARC\WARC\bin\Release\netcoreapp3.1\WARC.exe
+C:\Users\nurza\source\repos\WARC\WARC\bin\Release\netcoreapp3.1\WARC.deps.json
+C:\Users\nurza\source\repos\WARC\WARC\bin\Release\netcoreapp3.1\WARC.runtimeconfig.json
+C:\Users\nurza\source\repos\WARC\WARC\bin\Release\netcoreapp3.1\WARC.runtimeconfig.dev.json
+C:\Users\nurza\source\repos\WARC\WARC\bin\Release\netcoreapp3.1\WARC.dll
+C:\Users\nurza\source\repos\WARC\WARC\bin\Release\netcoreapp3.1\WARC.pdb
+C:\Users\nurza\source\repos\WARC\WARC\bin\Release\netcoreapp3.1\EAGetMail45.dll
+C:\Users\nurza\source\repos\WARC\WARC\bin\Release\netcoreapp3.1\EASendMail.dll
+C:\Users\nurza\source\repos\WARC\WARC\obj\Release\netcoreapp3.1\WARC.AssemblyInfoInputs.cache
+C:\Users\nurza\source\repos\WARC\WARC\obj\Release\netcoreapp3.1\WARC.AssemblyInfo.cs
+C:\Users\nurza\source\repos\WARC\WARC\obj\Release\netcoreapp3.1\WARC.csproj.CoreCompileInputs.cache
+C:\Users\nurza\source\repos\WARC\WARC\obj\Release\netcoreapp3.1\WARC.csproj.CopyComplete
+C:\Users\nurza\source\repos\WARC\WARC\obj\Release\netcoreapp3.1\WARC.dll
+C:\Users\nurza\source\repos\WARC\WARC\obj\Release\netcoreapp3.1\WARC.pdb
+C:\Users\nurza\source\repos\WARC\WARC\obj\Release\netcoreapp3.1\WARC.genruntimeconfig.cache
+C:\Users\nurza\source\repos\WARC\WARC\obj\Release\netcoreapp3.1\WARC.csprojAssemblyReference.cache

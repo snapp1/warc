@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="EAGetMail45">
+      <HintPath>EAGetMail45.dll</HintPath>
+    </Reference>
+    <Reference Include="EASendMail">
+      <HintPath>EASendMail.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
